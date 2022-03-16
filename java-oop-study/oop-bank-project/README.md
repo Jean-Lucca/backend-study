@@ -1,2 +1,1 @@
-# oop-bank-project
-simple oop bank
+# Object Oriented Bank Exercise
